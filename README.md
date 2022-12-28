@@ -11,11 +11,11 @@
   - '공공행정' 카테고리 문서 중 정답경계형, 절차형, 응답불가형 사용
 
 ## 학습 결과
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/train2.PNG" height="225px" weight="125px" align="left">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/metrics.PNG" height="225px" weight="125px" align="center">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res1.PNG" height="275px" weight="150px" align="left">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res2.PNG" height="275px" weight="150px" align="center">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res3.PNG" height="275px" weight="150px" align="left">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res4.PNG" height="275px" weight="150px" align="center">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res5.PNG" height="275px" weight="150px" align="left">
-<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res6.PNG" height="275px" weight="150px" align="center">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/train2.PNG" height="225px" weight="130px" align="left">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/metrics.PNG" height="225px" weight="130px" align="center">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res1.PNG" height="225px" weight="130px" align="left">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res2.PNG" height="225px" weight="130px" align="center">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res3.PNG" height="225px" weight="130px" align="left">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res4.PNG" height="225px" weight="130px" align="center">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res5.PNG" height="225px" weight="130px" align="left">
+<img src="https://github.com/JeongEunhye00/Human24/blob/main/img/res6.PNG" height="225px" weight="130px" align="center">
