@@ -120,5 +120,5 @@ def split_and_merge_dataset(unans_path, span_path, how_path, n, train_data=True)
     else:
         f_name = "validation"
 
-    with open(f'./{f_name}_{f_num}m.json', 'w', encoding='utf-8') as make_file:
+    with open(f'./dataset/{f_name}_{f_num}m.json', 'w', encoding='utf-8') as make_file:
         json.dump(newf, make_file, ensure_ascii=False, indent=2)
