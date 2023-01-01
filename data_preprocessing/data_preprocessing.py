@@ -33,11 +33,11 @@ concat_w = sorted(concat_w, key=lambda x: len(x[1]), reverse=True)
 for x in [train, dev]:
     for data in x['data']:
         p = data['paragraphs'][0]
-        p['context'] = blank_and_hanja_and_concat(p['context'])
+        p['context'] = blank_and_hanja_and_concat(p['context'], concat_w)
         for qas in p['qas']:
             if qas['is_impossible'] == False:
                 qas['answers'][0]['text'] = blank_and_hanja_and_concat(qas['answers'][0]['text'], concat_w)
-                qas['answers'][0]['answer_start'] = p['context'].find(qas['answers'][0]['text'], concat_w)
+                qas['answers'][0]['answer_start'] = p['context'].find(qas['answers'][0]['text'])
 
 
 with open(f'./dataset/pre_training_{f_num[n]}m.json', 'w') as f:
