@@ -4,7 +4,7 @@
 
 ## model
 - [Retrospective Reader for MRC](https://arxiv.org/abs/2001.09694)
-  - [Retre-Reader](https://github.com/jinmang2/RetroReader) code 사용
+  - trainer_Retro-Reader 로 학습
 
 ## dataset
 - AI hub [행정문서 기계독해 데이터셋](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=569)
